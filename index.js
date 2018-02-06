@@ -12,6 +12,7 @@ class TestEslintRegular extends React.Component {
     }
 }
 
+/* @extends React.Component */
 class TestEslint extends SafeComponent {
     render() {
         return (
